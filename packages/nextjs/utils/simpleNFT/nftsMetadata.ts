@@ -1,4 +1,7 @@
 const nftsMetadata = [
+  //https://nextjs-seven-nu-86.vercel.app/
+  //already verified: YourCollectible (0x3C40FC535e40A4eBe30ac5a38Bb30b81CA057235)  
+  
   {
     description: "Send Vitalik his Zebra!",
     external_url: "https://gateway.pinata.cloud/ipfs/QmNmUnJfh4nTE8kRs3Fy7e4DUW2Ymapa9nW8Y9QpCkrq6R/polkadotzebra.jpg", // <-- this can link to a page for the specific file too
